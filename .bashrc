@@ -122,3 +122,5 @@ source ~/.git-prompt.sh
 
 # additional aliases
 alias py='python3'
+alias python='python3'
+export PATH=$PATH:/usr/local/go/bin
